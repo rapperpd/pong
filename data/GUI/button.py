@@ -1,5 +1,6 @@
 import pygame as pg
 import os
+from ..tools import Font
         
 class Button:
     def __init__(self, rect, **kwargs):
